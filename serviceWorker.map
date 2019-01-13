@@ -1,1 +1,1 @@
-{"version":3,"sources":["serviceWorker.js"],"names":["self","addEventListener","f"],"mappings":";AAAAA,KAAKC,iBAAiB,QAClBC,GAAKA","file":"serviceWorker.map","sourceRoot":"..","sourcesContent":["self.addEventListener(\"fetch\",\r\n    f => f\r\n);"]}
+{"version":3,"sources":["serviceWorker.js"],"names":["self","addEventListener","f"],"mappings":";AAAAA,KAAKC,iBAAiB,QAClBC,GAAKA","file":"serviceWorker.map","sourceRoot":"..\\webapp","sourcesContent":["self.addEventListener(\"fetch\",\r\n    f => f\r\n);"]}
